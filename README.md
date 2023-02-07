@@ -1,4 +1,4 @@
-#PROJECT PRESENTION: Online Clothing Stores Ratings
+# PROJECT PRESENTION: Online Clothing Stores Ratings
 
 Step 1: Obtaining data:                . Main tools: Selenium Webdriver and BeautifulSoup
 
