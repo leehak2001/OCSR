@@ -9,9 +9,9 @@ __Main tools: Selenium, Webdriver, BeautifulSoup and re.__
 
 ## stage 2: initial cleaning and combining data.
 __Main tools: re, sklearn.__
-   - step 2.1 shopbop cleaning: Treatment of Nan values, cleaning, spliting list columns, deleting and adding columns to create the final df for the shopbop website.
-   - step 2.2 avenue cleaning: Treatment of Nan values, cleaning, spliting list columns, deleting and adding columns to create the final df for the shopbop website.
-   - step 2.3 combining dfs: combining the two df and then, cleaning, and organizing the columns that needed to be taken care of after the combination.
+   - step 2.1 shopbop cleaning: Treatment of Nan values, cleaning string anomalies, spliting list columns, deleting and adding columns to create the final df for the shopbop website.
+   - step 2.2 avenue cleaning: Treatment of Nan values, cleaning string anomalies, spliting list columns, deleting and adding columns to create the final df for the shopbop website.
+   - step 2.3 combining dfs: combining the two df and then, cleaning string anomalies, and organizing the columns that needed to be taken care of after the combination.
 
 ## stage 3: EDA & Visualization. 
 __Main tools: pyplot, seaborn, wordcloud, re.__
