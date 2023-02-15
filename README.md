@@ -17,12 +17,16 @@ __Main tools: re, sklearn.__
 __Main tools: pyplot, seaborn, wordcloud, re.__
    - step 3 vizualization
 
-## stage 4: Modeling: Step 4 - performance of 3 supervised algorithms: RandomForestClassifier, DecisionTreeClassifier, and KNN, using Sklearn.
-   - step 1: 
+## stage 4: Final Cleaning and Machine Learning
+__Main tools: sklearn, GridSearchCV.__
+   - step 4.1 Final Cleaning: preparing the df for the model by aither taking down or label encoding string columns, as well as normalizing the price column. 
+   - step 4.2 Machine Learning - Model: using, knn, decision tree, random forst, SVC, and naive byse, hyperparameter tuning and modifying the df to find the best model.
 
-## stage 5: Understanding the results + Final machine learning model
-   - step 1: 
+## stage 5: Conclusion
+__Main tools: sklearn__
+   - step 5 Conclusion: presenting the confusion metrix of the final model, understanding of the result.
 
 
 
-Accuracy on train data 0.845 Accuracy on test data 0.8
+___________________________________________________________________________
+Accuracy on train data 0.845 Accuracy on test data 0.81 and f1_score: 0.76
