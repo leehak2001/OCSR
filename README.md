@@ -24,7 +24,7 @@ __Main tools: sklearn, GridSearchCV.__
 
 ## stage 5: Conclusion
 __Main tools: sklearn__
-   - step 5 Conclusion: presenting the confusion metrix of the final model, understanding of the result.
+   - step 5 Conclusion: visualization of the final model and final conclusions. includes visualization of the confusion matrix, weight of features in the model and a random tree visualization from the random forst model.
 
 
 
